@@ -17,7 +17,9 @@ This github repository contains the C++ and python codes for the epidemics mean-
 ```make```
 
 2. After compilation is done, run the following command to run the algorithm:
-`./SIR-PDHG 32 32 12 0.1 0.1 5e-7 1000 50 0.6 0.2`
+
+```./SIR-PDHG 32 32 12 0.1 0.1 5e-7 1000 50 0.6 0.2```
 
 3. Run the following python codes to plot the graph and create the video of the solutions from the algorithm.
-`python plot-contour.py`
+
+```python plot-contour.py```
